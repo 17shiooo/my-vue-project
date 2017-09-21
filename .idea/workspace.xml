@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c16e220f-90b0-4d3c-8247-17b1aba2aa1a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c16e220f-90b0-4d3c-8247-17b1aba2aa1a" name="Default" comment="" />
     <ignored path="my-vue-project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -188,12 +185,12 @@
       <updated>1505207056918</updated>
       <workItem from="1505207058231" duration="184000" />
       <workItem from="1505207257602" duration="531000" />
-      <workItem from="1505982094197" duration="422000" />
+      <workItem from="1505982094197" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1137000" />
+    <option name="totallyTimeSpent" value="1314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="23" width="1863" height="1057" extended-state="6" />
